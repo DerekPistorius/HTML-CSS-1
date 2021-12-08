@@ -1,0 +1,44 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 7px;
+  }
+  
+  iFrame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  
+  * {
+  
+  text-align: center;
+  }
+  
+  table {
+    class="center"
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: dotted;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  
+  body {
+    background-color: black;
+    color: white;
+  }
+  
+  p {
+    padding-right: 400px;
+    padding-bottom: 7px;
+    padding-left: 400px;
+  }
